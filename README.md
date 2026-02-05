@@ -5,6 +5,8 @@
 
 <h2>1. DB 설계 전 필수로 알아야 하는 개념<h2/>
     <a href="https://stbhg5.tistory.com/800">데이터베이스 모델링(Datbase Modeling)이란?</a><br/>
+    <a href="https://stbhg5.tistory.com/803">관계형 데이터베이스(RDBMS)의 기본 구성</a><br/>
+    <a href="https://stbhg5.tistory.com/804">PK(기본키), FK(외래키)</a><br/>
     <a href=""></a><br/>
     <br/>
 
