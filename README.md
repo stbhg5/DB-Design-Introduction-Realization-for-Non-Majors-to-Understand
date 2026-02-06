@@ -7,6 +7,11 @@
     <a href="https://stbhg5.tistory.com/800">데이터베이스 모델링(Datbase Modeling)이란?</a><br/>
     <a href="https://stbhg5.tistory.com/803">관계형 데이터베이스(RDBMS)의 기본 구성</a><br/>
     <a href="https://stbhg5.tistory.com/804">PK(기본키), FK(외래키)</a><br/>
+    <a href="https://stbhg5.tistory.com/807">데이터베이스 네이밍 규칙</a><br/>
+    <br/>
+
+<h2>2. DB 설계의 핵심 원칙 및 전체 과정<h2/>
+    <a href="https://stbhg5.tistory.com/808">DB 설계할 때 이런 개념들 몰라도 아무 문제 없습니다!</a><br/>
     <a href=""></a><br/>
     <br/>
 
