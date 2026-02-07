@@ -12,6 +12,7 @@
 
 <h2>2. DB 설계의 핵심 원칙 및 전체 과정<h2/>
     <a href="https://stbhg5.tistory.com/808">DB 설계할 때 이런 개념들 몰라도 아무 문제 없습니다!</a><br/>
+    <a href="https://stbhg5.tistory.com/811">DB 설계 시 꼭 기억해야 할 핵심 원칙 1가지</a><br/>
     <a href=""></a><br/>
     <br/>
 
