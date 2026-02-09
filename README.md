@@ -14,7 +14,7 @@
     <a href="https://stbhg5.tistory.com/808">DB 설계할 때 이런 개념들 몰라도 아무 문제 없습니다!</a><br/>
     <a href="https://stbhg5.tistory.com/811">DB 설계 시 꼭 기억해야 할 핵심 원칙 1가지</a><br/>
     <a href="https://stbhg5.tistory.com/814">DB 설계 전체 과정</a><br/>
-    <a href=""></a><br/>
+    <a href="https://stbhg5.tistory.com/816">저장할 데이터 파악하기 / 그룹핑해서 분류하기</a><br/>
     <br/>
 
 <h2><h2/>
