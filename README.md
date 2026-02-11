@@ -17,7 +17,7 @@
     <a href="https://stbhg5.tistory.com/816">저장할 데이터 파악하기 / 그룹핑해서 분류하기</a><br/>
     <br/>
 
-<h2><h2/>
-    <a href=""></a><br/>
+<h2>3. ⭐️복잡한 개념을 몰라도 누구나 따라할 수 있는, 마법의 DB 설계 규칙 6가지⭐️<h2/>
+    <a href="https://stbhg5.tistory.com/820">[규칙 1] 한 칸에는 한 가지 정보만 들어가도록 만들어라 - 1</a><br/>
     <a href=""></a><br/>
     <br/>
