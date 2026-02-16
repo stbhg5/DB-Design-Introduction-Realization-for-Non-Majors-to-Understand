@@ -21,6 +21,7 @@
     <a href="https://stbhg5.tistory.com/820">[규칙 1] 한 칸에는 한 가지 정보만 들어가도록 만들어라 - 1</a><br/>
     <a href="https://stbhg5.tistory.com/822">[규칙 1] 한 칸에는 한 가지 정보만 들어가도록 만들어라 - 2</a><br/>
     <a href="https://stbhg5.tistory.com/827">[규칙 2] 어떤 테이블에 FK를 넣어도 '규칙 1'을 못 지킬 때는 중간 테이블을 하나 더 만들어라</a><br/>
-    <a href=""></a><br/>
+    <a href="https://stbhg5.tistory.com/829">[규칙 3] 헷갈릴 땐 관계(1:1, 1:N, N:M)를 파악해봐라 - 1</a><br/>
+    <a href="https://stbhg5.tistory.com/830">[규칙 3] 헷갈릴 땐 관계(1:1, 1:N, N:M)를 파악해봐라 - 2</a><br/>
     <a href=""></a><br/>
     <br/>
