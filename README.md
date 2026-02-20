@@ -24,5 +24,6 @@
     <a href="https://stbhg5.tistory.com/829">[규칙 3] 헷갈릴 땐 관계(1:1, 1:N, N:M)를 파악해봐라 - 1</a><br/>
     <a href="https://stbhg5.tistory.com/830">[규칙 3] 헷갈릴 땐 관계(1:1, 1:N, N:M)를 파악해봐라 - 2</a><br/>
     <a href="https://stbhg5.tistory.com/837">[규칙 3] 헷갈릴 땐 관계(1:1, 1:N, N:M)를 파악해봐라 - 3</a><br/>
+    <a href="https://stbhg5.tistory.com/839">[규칙 3] 헷갈릴 땐 관계(1:1, 1:N, N:M)를 파악해봐라 - 4</a><br/>
     <a href=""></a><br/>
     <br/>
