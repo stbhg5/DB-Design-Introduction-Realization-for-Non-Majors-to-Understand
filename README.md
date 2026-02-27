@@ -29,5 +29,10 @@
     <a href="https://stbhg5.tistory.com/845">[규칙 3] 헷갈릴 땐 관계(1:1, 1:N, N:M)를 파악해봐라 - 6</a><br/>
     <a href="https://stbhg5.tistory.com/848">[규칙 4] 데이터 중복이 발생하는 컬럼이 있는지 확인해라</a><br/>
     <a href="https://stbhg5.tistory.com/851">[규칙 5] 가짜 중복과 진짜 중복을 구별해라</a><br/>
+    <a href="https://stbhg5.tistory.com/855">[규칙 6] 숨어있는 중복을 찾아라</a><br/>
+    <br/>
+
+<h2><h2/>
+    <a href=""></a><br/>
     <a href=""></a><br/>
     <br/>
