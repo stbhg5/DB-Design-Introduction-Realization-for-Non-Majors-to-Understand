@@ -32,7 +32,7 @@
     <a href="https://stbhg5.tistory.com/855">[규칙 6] 숨어있는 중복을 찾아라</a><br/>
     <br/>
 
-<h2><h2/>
-    <a href=""></a><br/>
+<h2>4. 실전처럼 DB 설계 해보기<h2/>
+    <a href="https://stbhg5.tistory.com/860">[실습] 요구사항을 보고 DB 설계해보기 - JSCODE 커뮤니티</a><br/>
     <a href=""></a><br/>
     <br/>
