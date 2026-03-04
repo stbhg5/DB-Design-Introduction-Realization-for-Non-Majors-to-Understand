@@ -35,5 +35,6 @@
 <h2>4. 실전처럼 DB 설계 해보기<h2/>
     <a href="https://stbhg5.tistory.com/860">[실습] 요구사항을 보고 DB 설계해보기 - JSCODE 커뮤니티 (1)</a><br/>
     <a href="https://stbhg5.tistory.com/863">[실습] 요구사항을 보고 DB 설계해보기 - JSCODE 커뮤니티 (2)</a><br/>
+    <a href="https://stbhg5.tistory.com/868">[실습] 요구사항을 보고 DB 설계해보기 - JSCODE 쇼핑몰 (1)</a><br/>
     <a href=""></a><br/>
     <br/><br/>
