@@ -38,5 +38,11 @@
     <a href="https://stbhg5.tistory.com/868">[실습] 요구사항을 보고 DB 설계해보기 - JSCODE 쇼핑몰 (1)</a><br/>
     <a href="https://stbhg5.tistory.com/873">[실습] 요구사항을 보고 DB 설계해보기 - JSCODE 쇼핑몰 (2)</a><br/>
     <a href="https://stbhg5.tistory.com/877">[실습] 화면 UI 디자인을 보고 DB 설계해보기 - JSCODE 게시판</a><br/>
+    <a href="https://stbhg5.tistory.com/879">[실습] 화면 UI 디자인을 보고 DB 설계해보기 - JSCODE 투두리스트</a><br/>
+    <a href=""></a><br/>
+    <br/><br/>
+
+<h2><h2/>
+    <a href=""></a><br/>
     <a href=""></a><br/>
     <br/><br/>
