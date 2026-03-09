@@ -39,7 +39,8 @@
     <a href="https://stbhg5.tistory.com/873">[실습] 요구사항을 보고 DB 설계해보기 - JSCODE 쇼핑몰 (2)</a><br/>
     <a href="https://stbhg5.tistory.com/877">[실습] 화면 UI 디자인을 보고 DB 설계해보기 - JSCODE 게시판</a><br/>
     <a href="https://stbhg5.tistory.com/879">[실습] 화면 UI 디자인을 보고 DB 설계해보기 - JSCODE 투두리스트</a><br/>
-    <a href=""></a><br/>
+    <a href="https://stbhg5.tistory.com/881">여기까지 듣고 반드시 이걸 해야 합니다!</a><br/>
+    <a href="https://stbhg5.tistory.com/882">[보충 강의] ERD란? / ERD 해석하기</a><br/>
     <br/><br/>
 
 <h2><h2/>
