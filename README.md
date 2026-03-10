@@ -43,6 +43,12 @@
     <a href="https://stbhg5.tistory.com/882">[보충 강의] ERD란? / ERD 해석하기</a><br/>
     <br/><br/>
 
+<h2>5. 설계한 모델을 실제 DB에 반영하기<h2/>
+    <a href="https://stbhg5.tistory.com/885">설계한 모델을 실제 DB에는 어떻게 반영하나요?</a><br/>
+    <a href="https://stbhg5.tistory.com/886">데이터 타입 (Data Type) 실전 활용 지침</a><br/>
+    <a href=""></a><br/>
+    <br/><br/>
+
 <h2><h2/>
     <a href=""></a><br/>
     <a href=""></a><br/>
