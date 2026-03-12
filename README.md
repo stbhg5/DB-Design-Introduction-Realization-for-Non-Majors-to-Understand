@@ -46,7 +46,7 @@
 <h2>5. 설계한 모델을 실제 DB에 반영하기<h2/>
     <a href="https://stbhg5.tistory.com/885">설계한 모델을 실제 DB에는 어떻게 반영하나요?</a><br/>
     <a href="https://stbhg5.tistory.com/886">데이터 타입 (Data Type) 실전 활용 지침</a><br/>
-    <a href=""></a><br/>
+    <a href="https://stbhg5.tistory.com/889">DB 설계 내용을 코드로 반영하려면...?</a><br/>
     <br/><br/>
 
 <h2><h2/>
