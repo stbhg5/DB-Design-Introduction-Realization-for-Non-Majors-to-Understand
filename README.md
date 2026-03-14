@@ -49,7 +49,8 @@
     <a href="https://stbhg5.tistory.com/889">DB 설계 내용을 코드로 반영하려면...?</a><br/>
     <br/><br/>
 
-<h2><h2/>
-    <a href=""></a><br/>
-    <a href=""></a><br/>
+<h2>6. DB 설계 Q&A<h2/>
+    <a href="https://stbhg5.tistory.com/892">정규화를 하면 성능이 떨어진다던데요?</a><br/>
+    <a href="https://stbhg5.tistory.com/893">역정규화는 언제하나요?</a><br/>
+    <a href="https://stbhg5.tistory.com/894">이 다음에는 어떤 걸 공부해야 하나요?</a><br/>
     <br/><br/>
